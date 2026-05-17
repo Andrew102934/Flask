@@ -1,4 +1,7 @@
 # Flask
+
+Albert Tran, Alejandro Fonseca, Andrew Salladin, Brandon Schaefer, Joshua Duenas, and Timothy Tran.
+
 Part 1:
 
 Hi, I'm Andrew. This is my final project for CPSC 352, Cryptography. I built a system called FileDrop, it's a secure file exchange service where two users can send file through a central server, but the server never sees the plaintext, the symmetric keys, or anyone's private keys. All the cryptography happens on the client side. 
